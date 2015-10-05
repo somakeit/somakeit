@@ -1,4 +1,4 @@
-# Click the issues link to the right! --->
+# Click the [issues link](https://github.com/somakeit/somakeit/issues) to the right! --->
 
 ## So Make It issues
 
